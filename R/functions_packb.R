@@ -3,6 +3,7 @@
 #' @description This is function \code{f1} exposed by \code{packb}
 #'
 #' @return A String "Hello from packb_f1"
+#' @importFrom packa packa_f1
 #' @export
 #'
 #' @examples

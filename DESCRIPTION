@@ -8,6 +8,8 @@ Description: Use packa in conjunction with packb. This package is part of a
     construct in order to experiment with the different kinds of dependencies that
     can exist between packages and the difference between these dependencies. Use
     this knowledge to make the right choice when building your own packages.
+Imports:
+  packa
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
