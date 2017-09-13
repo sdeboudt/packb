@@ -1,0 +1,14 @@
+---
+title: "packb"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Understanding Package Dependencies in R
+
+Use this repository and the companion repositories packa, packc, ... in order to get a full understanding of
+the dependency relationships that can exist between R packages.
+
